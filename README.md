@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashgokarn
-- 👀 I’m interested in challenging data science projects
+- 👀 I’m interested in challenging data science or data analytics projects
 - 🌱 I’m currently practicing Python and hoping to gain more knowledge on this site
 - 💞️ I’m looking to collaborate on knowledge sharing or projects
 - 📫 How to reach me gokar1ap@gmail.com
